@@ -1,4 +1,4 @@
-# gamingrobot.art
+# grbt.art
 Art Portfolio
 
-https://gamingrobot.art
+https://grbt.art
