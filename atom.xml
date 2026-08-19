@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Art Stuff</title>
+    <subtitle>Morgan&#x27;s Art Stuff</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://grbt.art/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://grbt.art"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-08-17T00:00:00+00:00</updated>
+    <id>https://grbt.art/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Chroma Corps 2026</title>
+        <published>2026-08-17T00:00:00+00:00</published>
+        <updated>2026-08-17T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/chromacorps-2026/"/>
+        <id>https://grbt.art/artwork/chromacorps-2026/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/chromacorps-2026/">&lt;p&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;robert_sheet.ea3ff9e25acdc9ac.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;robert_sheet.webp&quot; alt=&quot;Cadet Submission&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;robert_sheet.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Cadet Submission&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;00_pigeon_knight2_crop.007cded15b0dcf8b.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;00_pigeon_knight2_crop.webp&quot; alt=&quot;Day 0: Pigeon Knight&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;00_pigeon_knight2_crop.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 0: Pigeon Knight&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;01_caffeen_crop.a0a2aee02e88eba7.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;01_caffeen_crop.webp&quot; alt=&quot;Day 1: Fanart of another cadet&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;01_caffeen_crop.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 1: Fanart of another cadet&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;linktr.ee&#x2F;soco_oh&quot;&gt;Soco&#x27;s&lt;&#x2F;a&gt; Caffeeen
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;01_tjl_mech_shaded_cropped.7d921839064c8154.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;01_tjl_mech_shaded_cropped.webp&quot; alt=&quot;Another Day 1: Fanart of another cadet&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;01_tjl_mech_shaded_cropped.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Another Day 1: Fanart of another cadet&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;tjlart.carrd.co&quot;&gt;TJL&#x27;s&lt;&#x2F;a&gt; Mech
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;02_hermit_inked2_cropped.2f5202bd074f2c34.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;02_hermit_inked2_cropped.webp&quot; alt=&quot;Day 2: Instrument Hermit Crab&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;02_hermit_inked2_cropped.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 2: Instrument Hermit Crab&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;03_scissors_cropped.c505a5fa094740df.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;03_scissors_cropped.webp&quot; alt=&quot;Day 3: Scissors that can cut reality&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;03_scissors_cropped.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 3: Scissors that can cut reality&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;04_medieval_bunker_cropped.ff208f664699c9d0.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;04_medieval_bunker_cropped.webp&quot; alt=&quot;Day 4: Medieval Bunker&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;04_medieval_bunker_cropped.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 4: Medieval Bunker&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;05_capybara_knight_cropped.webp&quot; alt=&quot;Day 5: Evil Capybara Knight&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;05_capybara_knight_cropped.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 5: Evil Capybara Knight&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;06_amoebaaaa_cropped.webp&quot; alt=&quot;Day 6: AmoeBaAaa&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;06_amoebaaaa_cropped.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 6: AmoeBaAaa&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;07_album_art_square.c6db39806144ccf5.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;07_album_art_square.webp&quot; alt=&quot;Day 7: Album art of your cadet&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;07_album_art_square.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 7: Album art of your cadet&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;08_skull_trophy_cropped.495630ab28e3bb5a.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;08_skull_trophy_cropped.webp&quot; alt=&quot;Day 8: Peculiar Skull Trophy&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;08_skull_trophy_cropped.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 8: Peculiar Skull Trophy&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;09_jellyfish_festival_cropped.09f57a04ae32d2af.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;09_jellyfish_festival_cropped.webp&quot; alt=&quot;Day 9: Jellyfish Festival&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chromacorps-2026&#x2F;09_jellyfish_festival_cropped.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 9: Jellyfish Festival&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Milling Machine</title>
+        <published>2025-10-12T00:00:00+00:00</published>
+        <updated>2025-10-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/milling-machine/"/>
+        <id>https://grbt.art/artwork/milling-machine/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/milling-machine/">&lt;video autoplay loop controls&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;milling-machine&#x2F;gamingrobot_mill.mp4&quot; type=&quot;video&#x2F;mp4&quot; &#x2F;&gt;
+    Your browser doesn&#x27;t support the video.
+&lt;&#x2F;video&gt;
+&lt;p&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;gamingrobot_mill.559f780ba3cc4c7d.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;milling-machine&#x2F;gamingrobot_mill.webp&quot; alt=&quot;3D Render of Milling Machine&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;milling-machine&#x2F;gamingrobot_mill.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;gamingrobot_mill_clay.7bfd3255948be84d.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;milling-machine&#x2F;gamingrobot_mill_clay.webp&quot; alt=&quot;Clay Render&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;milling-machine&#x2F;gamingrobot_mill_clay.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+&lt;&#x2F;figure&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hacking Device</title>
+        <published>2025-04-20T00:00:00+00:00</published>
+        <updated>2025-04-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/hacking-device/"/>
+        <id>https://grbt.art/artwork/hacking-device/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/hacking-device/">&lt;video autoplay loop controls&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;hacking-device&#x2F;hacking-device.mp4&quot; type=&quot;video&#x2F;mp4&quot; &#x2F;&gt;
+    Your browser doesn&#x27;t support the video.
+&lt;&#x2F;video&gt;
+&lt;p&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;device35.73f3b05d8455c871.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;hacking-device&#x2F;device35.webp&quot; alt=&quot;3D Render of a hacking device in-front of cables&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;hacking-device&#x2F;device35.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Malt Render&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;device53_cider.680b5f17a79ac822.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;hacking-device&#x2F;device53_cider.webp&quot; alt=&quot;3D Render of a hacking device in-front of cables&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;hacking-device&#x2F;device53_cider.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;EEVEE Render with Cider Line Art&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;ref.6f52f84c1e5d65bb.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;hacking-device&#x2F;ref.webp&quot; alt=&quot;Reference Photo&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;hacking-device&#x2F;ref.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Reference Photo&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;device35_viewport.98c2ff764da01724.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;hacking-device&#x2F;device35_viewport.webp&quot; alt=&quot;Clay&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;hacking-device&#x2F;device35_viewport.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Clay&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Chasm&#x27;s Call: Ares V</title>
+        <published>2025-03-09T00:00:00+00:00</published>
+        <updated>2025-03-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/chasms-call/"/>
+        <id>https://grbt.art/artwork/chasms-call/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/chasms-call/">&lt;video autoplay loop controls&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chasms-call&#x2F;chasms_call_small.mp4&quot; type=&quot;video&#x2F;mp4&quot; &#x2F;&gt;
+    Your browser doesn&#x27;t support the video.
+&lt;&#x2F;video&gt;
+&lt;p&gt;Final Submission&lt;&#x2F;p&gt;
+&lt;video   controls&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chasms-call&#x2F;breakdown_nointro_small.mp4&quot; type=&quot;video&#x2F;mp4&quot; &#x2F;&gt;
+    Your browser doesn&#x27;t support the video.
+&lt;&#x2F;video&gt;
+&lt;p&gt;Breakdown&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Chamfered Block</title>
+        <published>2024-06-02T00:00:00+00:00</published>
+        <updated>2024-06-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/chamfered-block/"/>
+        <id>https://grbt.art/artwork/chamfered-block/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/chamfered-block/">&lt;p&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;gamingrobot-chamf29.c76a2f8869090226.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chamfered-block&#x2F;gamingrobot-chamf29.webp&quot; alt=&quot;Chamfered Block in Blender&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chamfered-block&#x2F;gamingrobot-chamf29.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Chamfered Block in Blender&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;ref.c4209b66022ca59f.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chamfered-block&#x2F;ref.webp&quot; alt=&quot;Reference Photo&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chamfered-block&#x2F;ref.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Reference Photo&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;gamingrobot-clay.76298a09b5582b28.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chamfered-block&#x2F;gamingrobot-clay.webp&quot; alt=&quot;Clay&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;chamfered-block&#x2F;gamingrobot-clay.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Clay&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Pliers</title>
+        <published>2024-05-16T00:00:00+00:00</published>
+        <updated>2024-05-16T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/pliers/"/>
+        <id>https://grbt.art/artwork/pliers/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/pliers/">&lt;p&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;pliers12.cd9a34eb4c78826e.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;pliers&#x2F;pliers12.webp&quot; alt=&quot;Pliers in Blender&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;pliers&#x2F;pliers12.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Pliers in Blender&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;pliers&#x2F;ref.webp&quot; alt=&quot;Reference Photo&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;pliers&#x2F;ref.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Reference Photo&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;pliers&#x2F;pliers12_close.webp&quot;  loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;pliers&#x2F;pliers12_close.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;pliers&#x2F;pliers12_close2.webp&quot;  loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;pliers&#x2F;pliers12_close2.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;pliers_clay.3255e30566ef1f07.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;pliers&#x2F;pliers_clay.webp&quot; alt=&quot;Clay&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;pliers&#x2F;pliers_clay.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Clay&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Torn Leaf</title>
+        <published>2024-04-10T00:00:00+00:00</published>
+        <updated>2024-04-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/torn-leaf/"/>
+        <id>https://grbt.art/artwork/torn-leaf/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/torn-leaf/">&lt;p&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;leaf10.6d1f377fc52f1511.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;torn-leaf&#x2F;leaf10.webp&quot; alt=&quot;Torn Leaf&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;torn-leaf&#x2F;leaf10.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Torn Leaf&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;torn-leaf&#x2F;ref.webp&quot; alt=&quot;Reference Photo&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;torn-leaf&#x2F;ref.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Reference Photo&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>High Voltage Outlet</title>
+        <published>2024-03-18T00:00:00+00:00</published>
+        <updated>2024-03-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/high-voltage-plug/"/>
+        <id>https://grbt.art/artwork/high-voltage-plug/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/high-voltage-plug/">&lt;p&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;plug31.289327f5128bb932.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;high-voltage-plug&#x2F;plug31.webp&quot; alt=&quot;High Voltage outlet in Blender&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;high-voltage-plug&#x2F;plug31.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;High Voltage outlet in Blender&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;ref.458a88e0fc9c06cd.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;high-voltage-plug&#x2F;ref.webp&quot; alt=&quot;Reference Photo&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;high-voltage-plug&#x2F;ref.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Reference Photo&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;source media=&quot;(max-width: 768px)&quot; srcset=&quot;https:&amp;#x2F;&amp;#x2F;grbt.art&amp;#x2F;processed_images&amp;#x2F;plug31_clay.3121d56f638de62e.webp&quot;&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;high-voltage-plug&#x2F;plug31_clay.webp&quot; alt=&quot;Clay&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;high-voltage-plug&#x2F;plug31_clay.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Clay&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Schiit Fulla 2</title>
+        <published>2024-03-11T00:00:00+00:00</published>
+        <updated>2024-03-11T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/schiit-fulla/"/>
+        <id>https://grbt.art/artwork/schiit-fulla/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/schiit-fulla/">&lt;p&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;schiit-fulla&#x2F;fulla17.webp&quot; alt=&quot;Schiit Fulla 2 in Blender&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;schiit-fulla&#x2F;fulla17.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Schiit Fulla 2 in Blender&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;schiit-fulla&#x2F;ref.webp&quot; alt=&quot;Reference Photo&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;schiit-fulla&#x2F;ref.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Reference Photo&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;schiit-fulla&#x2F;fullaclay.webp&quot; alt=&quot;Clay&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;schiit-fulla&#x2F;fullaclay.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Clay&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Robot Head</title>
+        <published>2024-02-18T00:00:00+00:00</published>
+        <updated>2024-02-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/robot-head/"/>
+        <id>https://grbt.art/artwork/robot-head/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/robot-head/">&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;robot-head&#x2F;head.webp&quot; alt=&quot;yellow robot head with headphones&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;robot-head&#x2F;head.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+&lt;&#x2F;figure&gt;</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>M8 Visualizer</title>
+        <published>2024-02-14T00:00:00+00:00</published>
+        <updated>2024-02-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/m8-visualizer/"/>
+        <id>https://grbt.art/artwork/m8-visualizer/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/m8-visualizer/">&lt;video   controls&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;m8-visualizer&#x2F;m8_1.mp4&quot; type=&quot;video&#x2F;mp4&quot; &#x2F;&gt;
+    Your browser doesn&#x27;t support the video.
+&lt;&#x2F;video&gt;
+&lt;p&gt;Remote display&lt;&#x2F;p&gt;
+&lt;video   controls&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;m8-visualizer&#x2F;m8_2.mp4&quot; type=&quot;video&#x2F;mp4&quot; &#x2F;&gt;
+    Your browser doesn&#x27;t support the video.
+&lt;&#x2F;video&gt;
+&lt;p&gt;Waveform display&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Genuary 2024</title>
+        <published>2024-01-31T00:00:00+00:00</published>
+        <updated>2024-01-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/genuary-2024/"/>
+        <id>https://grbt.art/artwork/genuary-2024/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/genuary-2024/">&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;1-particles.webp&quot; alt=&quot;colorful sandlike pixels&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;1-particles.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 1 (Particles) and Day 2 (No palettes)&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;video   controls&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;3-droste.mp4&quot; type=&quot;video&#x2F;mp4&quot; &#x2F;&gt;
+    Your browser doesn&#x27;t support the video.
+&lt;&#x2F;video&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;3-droste2.webp&quot; alt=&quot;orange circles in a spiral shrinking to the center&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;3-droste2.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+&lt;&#x2F;figure&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;3-droste3.webp&quot; alt=&quot;orange circles shrinking to the center&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;3-droste3.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 3 (Droste effect)&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;video   controls&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;4-pixels.mp4&quot; type=&quot;video&#x2F;mp4&quot; &#x2F;&gt;
+    Your browser doesn&#x27;t support the video.
+&lt;&#x2F;video&gt;
+&lt;p&gt;Day 4 (Pixels)&lt;&#x2F;p&gt;
+&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;5-molnar.webp&quot; alt=&quot;densely packed smiley faces&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;5-molnar.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+&lt;&#x2F;figure&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;5-molnar2.webp&quot; alt=&quot;more densely packed smiley faces&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;5-molnar2.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+&lt;&#x2F;figure&gt;&lt;figure &gt;
+  &lt;picture&gt;
+      &lt;img src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;5-molnar3.webp&quot; alt=&quot;scribbles&quot; loading=&quot;lazy&quot;&gt;
+    &lt;div class=&quot;img-action&quot;&gt;
+      &lt;a class=&quot;action&quot; href=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;5-molnar3.webp&quot;&gt;
+&lt;svg xmlns=&quot;http:&#x2F;&#x2F;www.w3.org&#x2F;2000&#x2F;svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;feather feather-maximize-2&quot;&gt;&lt;polyline points=&quot;15 3 21 3 21 9&quot;&gt;&lt;&#x2F;polyline&gt;&lt;polyline points=&quot;9 21 3 21 3 15&quot;&gt;&lt;&#x2F;polyline&gt;&lt;line x1=&quot;21&quot; y1=&quot;3&quot; x2=&quot;14&quot; y2=&quot;10&quot;&gt;&lt;&#x2F;line&gt;&lt;line x1=&quot;3&quot; y1=&quot;21&quot; x2=&quot;10&quot; y2=&quot;14&quot;&gt;&lt;&#x2F;line&gt;&lt;&#x2F;svg&gt;
+&lt;&#x2F;a&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;picture&gt;
+  &lt;figcaption&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Day 5 (In the style of Vera Molnár)&lt;&#x2F;span&gt;
+  &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;&lt;video   controls&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;genuary-2024&#x2F;6-screensaver.mp4&quot; type=&quot;video&#x2F;mp4&quot; &#x2F;&gt;
+    Your browser doesn&#x27;t support the video.
+&lt;&#x2F;video&gt;
+&lt;p&gt;Day 6 (Screensaver)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Jelly Letters</title>
+        <published>2023-02-21T00:00:00+00:00</published>
+        <updated>2023-02-21T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Morgan Creekmore
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grbt.art/artwork/jelly-letters/"/>
+        <id>https://grbt.art/artwork/jelly-letters/</id>
+        
+        <content type="html" xml:base="https://grbt.art/artwork/jelly-letters/">&lt;video autoplay  controls&gt;
+    &lt;source src=&quot;https:&#x2F;&#x2F;grbt.art&#x2F;artwork&#x2F;jelly-letters&#x2F;jelly.mp4&quot; type=&quot;video&#x2F;mp4&quot; &#x2F;&gt;
+    Your browser doesn&#x27;t support the video.
+&lt;&#x2F;video&gt;
+</content>
+        
+    </entry>
+</feed>
