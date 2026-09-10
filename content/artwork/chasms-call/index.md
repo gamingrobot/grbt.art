@@ -8,7 +8,7 @@ date = 2025-03-09
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "chasms_call.webp"
+thumbnail = "chasms_call_logo.webp"
 +++
 
 {{ video(src="chasms_call_small.mp4", autoplay=true, loop=true) }}
