@@ -8,13 +8,11 @@ date = 2025-03-09
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "chasms_call_logo.webp"
+thumbnail = "grbt_chasms_call_logo.webp"
 +++
 
-{{ video(src="chasms_call_small.mp4", autoplay=true, loop=true) }}
+{{ <video src="grbt_chasms_call_small.mp4" text="Final Submission" autoplay={true}/> }}
 
-Final Submission
+{{ <video src="grbt_breakdown_nointro_small.mp4" text="Breakdown"/> }}
 
-{{ video(src="breakdown_nointro_small.mp4") }}
 
-Breakdown

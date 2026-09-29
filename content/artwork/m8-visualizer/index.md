@@ -5,13 +5,13 @@ date = 2024-02-14
 [taxonomies]
 tags = ["vvvv"]
 [extra]
-thumbnail = "thumb.webp"
+thumbnail = "grbt_thumb.webp"
 +++
 
-{{ video(src="m8_1.mp4") }}
+{{ <video src="grbt_m8_1.mp4"/> }}
 
 Remote display
 
-{{ video(src="m8_2.mp4") }}
+{{ <video src="grbt_m8_2.mp4"/> }}
 
 Waveform display

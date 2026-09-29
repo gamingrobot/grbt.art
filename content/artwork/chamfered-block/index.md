@@ -10,9 +10,9 @@ date = 2024-06-02
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "gamingrobot-chamf29.webp"
+thumbnail = "grbt_chamf29.webp"
 +++
 
-{{ img(src="gamingrobot-chamf29.webp", text="Chamfered Block in Blender") }}
-{{ img(src="ref.webp", text="Reference Photo") }}
-{{ img(src="gamingrobot-clay.webp", text="Clay") }}
+{{ <img src="grbt_chamf29.webp" text="Chamfered Block in Blender"/> }}
+{{ <img src="grbt_ref.webp" text="Reference Photo"/> }}
+{{ <img src="grbt_clay.webp" text="Clay"/> }}

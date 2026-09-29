@@ -8,9 +8,9 @@ date = 2024-03-11
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "fulla17.webp"
+thumbnail = "grbt_fulla17.webp"
 +++
 
-{{ img(src="fulla17.webp", text="Schiit Fulla 2 in Blender") }}
-{{ img(src="ref.webp", text="Reference Photo") }}
-{{ img(src="fullaclay.webp", text="Clay") }}
+{{ <img src="grbt_fulla17.webp" text="Schiit Fulla 2 in Blender"/> }}
+{{ <img src="grbt_ref.webp" text="Reference Photo"/> }}
+{{ <img src="grbt_fullaclay.webp" text="Clay"/> }}

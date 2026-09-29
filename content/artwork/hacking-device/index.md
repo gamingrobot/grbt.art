@@ -5,12 +5,12 @@ date = 2025-04-20
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "device35.webp"
+thumbnail = "grbt_device35.webp"
 +++
 
-{{ video(src="hacking-device.mp4", autoplay=true, loop=true) }}
+{{ <video src="grbt_hacking-device.mp4" autoplay={true}/> }}
 
-{{ img(src="device35.webp", text="Malt Render" alt="3D Render of a hacking device in-front of cables") }}
-{{ img(src="device53_cider.webp", text="EEVEE Render with Cider Line Art" alt="3D Render of a hacking device in-front of cables") }}
-{{ img(src="ref.webp", text="Reference Photo") }}
-{{ img(src="device35_viewport.webp", text="Clay") }}
+{{ <img src="grbt_device35.webp" text="Malt Render" alt="3D Render of a hacking device in-front of cables"/> }}
+{{ <img src="grbt_device53_cider.webp" text="EEVEE Render with Cider Line Art" alt="3D Render of a hacking device in-front of cables"/> }}
+{{ <img src="grbt_ref.webp" text="Reference Photo"/> }}
+{{ <img src="grbt_device35_viewport.webp" text="Clay"/> }}

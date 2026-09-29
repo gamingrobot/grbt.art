@@ -6,10 +6,10 @@ date = 2025-10-12
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "gamingrobot_mill.webp"
+thumbnail = "grbt_mill.webp"
 +++
 
-{{ video(src="gamingrobot_mill.mp4", autoplay=true, loop=true) }}
+{{ <video src="grbt_mill.mp4" autoplay={true}/> }}
 
-{{ img(src="gamingrobot_mill.webp", alt="3D Render of Milling Machine") }}
-{{ img(src="gamingrobot_mill_clay.webp", alt="Clay Render") }}
+{{ <img src="grbt_mill.webp" alt="3D Render of Milling Machine"/> }}
+{{ <img src="grbt_mill_clay.webp" alt="Clay Render"/> }}

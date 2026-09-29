@@ -5,8 +5,8 @@ date = 2024-04-10
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "leaf10.webp"
+thumbnail = "grbt_leaf10.webp"
 +++
 
-{{ img(src="leaf10.webp", text="Torn Leaf") }}
-{{ img(src="ref.webp", text="Reference Photo") }}
+{{ <img src="grbt_leaf10.webp" text="Torn Leaf"/> }}
+{{ <img src="grbt_ref.webp" text="Reference Photo"/> }}

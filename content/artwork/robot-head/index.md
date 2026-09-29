@@ -5,7 +5,7 @@ date = 2024-02-18
 [taxonomies]
 tags = ["Blender"]
 [extra]
-thumbnail = "head.webp"
+thumbnail = "grbt_robot_head.webp"
 +++
 
-{{ img(src="head.webp", alt="yellow robot head with headphones") }}
+{{ <img src="grbt_robot_head.webp" alt="yellow robot head with headphones"/> }}
