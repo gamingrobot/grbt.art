@@ -18,3 +18,4 @@ thumbnail = "grbt_day10_mystical.webp"
 {{ <img src="grbt_day08_stinky.webp" text="Day 8: Stinky"/> }}
 {{ <img src="grbt_day09_ram.webp" text="Day 9: Ram"/> }}
 {{ <img src="grbt_day10_mystical.webp" text="Day 10: Mystical"/> }}
+{{ <img src="grbt_day11_rescue.webp" text="Day 11: Rescue"/> }}
